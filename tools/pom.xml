@@ -29,7 +29,7 @@
 		<httpcomponents-version>5.0.3</httpcomponents-version>
 		<!--  web-specific properties are under cldr-apps -->
 		<mysql.version>8.0.28</mysql.version>
-		<derby.version>10.15.2.0</derby.version>
+		<derby.version>10.17.1.0</derby.version>
 	</properties>
 
 	<modules>
